@@ -1,6 +1,6 @@
 # Large Scale Data Processing: Project 2
 ## Getting started
-Head to [Project 2](https://github.com/CSCI3390Spring2024/project_1) if you're looking for information on Git, template repositories, or setting up your local/remote environments.
+Head to [Project 1](https://github.com/CSCI3390Spring2024/project_1) if you're looking for information on Git, template repositories, or setting up your local/remote environments.
 
 ## Resilient distributed datasets in Spark
 This project will familiarize you with RDD manipulations by implementing some of the sketching algorithms the course has covered thus far.  
